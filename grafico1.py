@@ -41,7 +41,7 @@ layout=dbc.Container([
                 dbc.Col([
                      dcc.Markdown("""
                                     **Paginas / Graficos de Ventas**  
-                                      Graficos Ventas
+                                      Graficos
                                     """,style={"margin-left":"48px"})
                  ], xs=12, sm=12, md=9),
                dbc.Col([
